@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KASU BRO</h1>
 
-
+<p align="center"> <img src="https://img.shields.io/badge/-E%20PUSTHAKALAYA%20BOTs-blue"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunthamadushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kasunthamadushanka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunthamadushanka" alt="kasunthamadushanka" /></a> </p>
