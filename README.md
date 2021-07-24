@@ -14,3 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunthamadushanka&show_icons=true&locale=en" alt="kasunthamadushanka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunthamadushanka&" alt="kasunthamadushanka" /></p>
+
+
+- name: GitHub - Activity - Readme
+  uses: kasunthamadushanka7/github-activity-readme@v0.3.6
