@@ -16,5 +16,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunthamadushanka&" alt="kasunthamadushanka" /></p>
 
 
-- name: GitHub - Activity - Readme
-  uses: kasunthamadushanka7/github-activity-readme@v0.3.6
+
